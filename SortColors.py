@@ -11,4 +11,4 @@ class Solution:
             nums.remove(minx)
         for i in range(len(lst)):
             nums.append(lst[i])
-        return nums
+#         return nums
